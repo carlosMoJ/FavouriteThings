@@ -1,3 +1,6 @@
 Apples
 Grapes
 Bananas
+Lettuce
+Grapefruit
+Tomatoes
